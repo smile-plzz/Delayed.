@@ -1,0 +1,6 @@
+
+/**
+ * DETERMINISTIC LOGIC ONLY.
+ * AI SERVICE SUSPENDED.
+ */
+export const _AI_DISABLED = true;
